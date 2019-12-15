@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Go4Plastic</string>
+    <string name="source_selection_dialog_title">Experiences Source</string>
+    <string name="enter_json_source_url">Enter JSON source url</string>
+    <string name="change_url">Change URL</string>
+    <string name="perform_ar_experience">perform ar experience</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="no_valid_experiences">Selected source had no valid experiences</string>
+    <string name="add_json_item">Add JSON Item</string>
+    <string name="json_dialog_descriptions">Please enter the desired Label and\nJSON URL path into the field below.</string>
+    <string name="label">Label</string>
+    <string name="json_url">JSON URL</string>
+    <string name="add_item">Add Item</string>
+    <string name="cache_cleared">Cache Cleared</string>
+    <string name="reset_successful">Reset Successful</string>
+    <string name="door_open_message">The door is open!! Go in??</string>
+    <string name="door_closed_message">you have the key! open this door?</string>
+    <string name="create_account">Create an account</string>
+    <string name="login_existing_account">Sign in</string>
+    <string name="login_with_fb">Login with facebook</string>
+    <string name="email">e-mail</string>
+    <string name="password">password</string>
+    <string name="ex_email">example@gmail.com</string>
+    <string name="authentication">Authenticating...</string>
+    <string name="profile_label_tokens">Tokens collected:</string>
+
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="user_location_permission_not_granted">Permission not granted.</string>
+    <string name="user_location_permission_explanation">The app need the location to provide map functionalities.</string>
+</resources>

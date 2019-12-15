@@ -1,0 +1,75 @@
+{
+  animations: [
+    {
+      path: 'sampledata/bottle_token.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'Material_67',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '166',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Color',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/bottle_token.fbx',
+    name: 'bottle_token',
+    recenter: 'root',
+    scale: 9.7584959999999992,
+  },
+  samplers: [
+    {
+      file: 'sampledata/bottle_token.fbm/166.png',
+      name: '166',
+      pipeline_name: 'bottle_token.fbm/166.png',
+    },
+    {
+      file: 'sampledata/bottle_token.fbm/170.png',
+      name: '170',
+      pipeline_name: 'bottle_token.fbm/170.png',
+    },
+  ],
+  version: '0.54:2',
+}

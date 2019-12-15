@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ARActivity">
+
+    <FrameLayout
+        android:id="@+id/root_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <fragment android:name="com.realtwin.goforplastic.PlasticDetectionFragment"
+        android:id="@+id/arcoreView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:elevation="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/txt_instructions"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+
+        android:visibility="visible"
+
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintVertical_bias="0.75"
+
+        android:textColor="@color/schalke_light_grey"
+        android:textSize="20sp"
+        android:text="Scan trash to get tokens"
+        android:gravity="center"
+
+        android:shadowDx="2"
+        android:shadowDy="1"
+        android:shadowRadius="2"
+        android:shadowColor="@android:color/black"
+
+        android:background="@drawable/rounded_corners_text"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

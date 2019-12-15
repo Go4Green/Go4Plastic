@@ -1,0 +1,56 @@
+{
+  materials: [
+    {
+      name: '01',
+      parameters: [
+        {
+          baseColor: [
+            0.38823499999999995,
+            0.88823499999999995,
+            0.28823499999999995,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0.4,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 0.8,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/sample_token.FBX',
+    name: 'sample_token',
+    recenter: 'root',
+  },
+  version: '0.54:2',
+}

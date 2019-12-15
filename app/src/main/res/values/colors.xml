@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <color name="tintColor">#7AC7BEBE</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="login_color_light">#DBCADF</color>
+    <color name="login_color">#842596</color>
+    <color name="sign_in_color">#2e3192</color>
+    <color name="orange_med">#c73f00</color>
+    <color name="orange">#c43e00</color>
+    <color name="pink">#f8bbd0</color>
+    <color name="light_blue">#b3e5fc</color>
+    <color name="blue">#3f51b5</color>
+    <color name="add_item_stroke_color">#D9D9D9</color>
+    <color name="add_item_font_color">#757575</color>
+    <color name="add_item_pressed_background">#D9D9D9</color>
+    <color name="navbar_background">#FFFFFF</color>
+    <color name="navbar_textcolor">#757575</color>
+    <color name="navbar_background_button_pressed">#f2f2f2</color>
+    <color name="dialogbox_highlightcolor">#007aff</color>
+    <color name="dialogbox_normalcolor">#e0e0e0</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#FF4A4A4A</color>
+    <color name="dark_grey_transparent">#804A4A4A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightest_grey">#f7f7f7</color>
+    <color name="share_screen_background_dim">#88000000</color>
+    <color name="dark_grey_webviewbar">#757575</color>
+    <color name="dark_grey_webviewbar_pressed">#BABABA</color>
+    <color name="white_transparent">#00FFFFFF</color>
+    <color name="object_info_title_text">#FFFFFF</color>
+    <color name="object_info_title_text_shadow">#000000</color>
+    <color name="object_info_subtitle_text">#FFFFFF</color>
+    <color name="object_info_subtitle_text_shadow">#000000</color>
+    <color name="object_info_panel">#D91A1A1A</color>
+    <color name="cta_button">#007AFF</color>
+    <color name="cta_button_text">#FFFFFF</color>
+    <color name="notification_blue">#007AFF</color>
+    <color name="notification_background">#26000000</color>
+    <color name="notification_background_pressed">#4DFFFFFF</color>
+    <color name="webview_progress_bg">#d2dff0</color>
+    <color name="webview_progress">#2572dc</color>
+    <color name="caption_divider_grey">#9C9C9C</color>
+    <color name="horizontal_separator">#4C9B9B9B</color>
+    <color name="preview_toggle_button_unselected_bg">#d9d9d9</color>
+    <color name="share_screen_done_button_background">#7FFFFFFF</color>
+    <color name="share_screen_done_button_pressed_background">#AFFFFFFF</color>
+    <color name="experience_loading_progressbar_bg">#D8D8D8</color>
+    <color name="experience_loading_progressbar">#007AFF</color>
+
+    <color name="schalke_dark_blue">#15008c</color>
+    <color name="schalke_light_blue">#12e0ff</color>
+    <color name="schalke_dark_grey">#444</color>
+    <color name="schalke_light_grey">#DDD</color>
+    <color name="schalke_grey_blue">#12b0bf</color>
+
+    <color name="text_white">#FAFAFA</color>
+    <color name="semi_transparent">#66000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="test">#4CAF50</color>
+</resources>

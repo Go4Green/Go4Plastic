@@ -1,0 +1,6 @@
+glass
+paper
+cardboard
+plastic
+metal
+trash

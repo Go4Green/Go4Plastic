@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ThumbnailImageButton">
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="thumbnailSrc" format="reference"/>
+        <attr name="backgroundSrc" format="reference"/>
+        <attr name="label" format="string"/>
+    </declare-styleable>
+</resources>
